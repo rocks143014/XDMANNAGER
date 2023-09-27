@@ -29,7 +29,7 @@ SOFTWARE.
 
 import sys
 
-from Alone import LOAD, LOGGER, NO_LOAD
+from XDMANNAGER import LOAD, LOGGER, NO_LOAD
 
 
 def __list_all_modules():
